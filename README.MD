@@ -17,7 +17,7 @@ Write an API service for Medical Laboratory Inventory Management System called M
 4. Administrator should be able to register new patient and add patient in a group
 5. Administrator should be able to add an infant or child to parents record / account
 6. Administrator should be able to search patient records
-7. The system must ensure the same login credentials can not be used twice
+7. The system must prevent multiple sign in with the same login credentials
 
 
 ## Question 2 
