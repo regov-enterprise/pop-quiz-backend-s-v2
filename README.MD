@@ -11,13 +11,12 @@
 
 Write an API service for Medical Laboratory Inventory Management System called MLI. The MLI system should allow lab technician to do the following:
 
-1. Onboarding new patient for medical testing, and offboarding existing patient
-2. The patient would only provide personal credentials for the lab technican to help setup the account
-3. The patient should be able to provide OTP via mobile, email, or other MFA devices during sign up
-4. Administrator should be able to register new patient and add patient in a group
-5. Administrator should be able to add an infant or child to parents record / account
-6. Administrator should be able to search patient records
-7. The system must prevent multiple sign in with the same login credentials
+1. The patient would only provide personal credentials for the lab technican to help setup the account
+2. The patient should be able to provide OTP via mobile, email, or other MFA devices during sign up
+3. Administrator should be able to register new patient and add patient in a group
+4. Administrator should be able to add an infant or child to parents record / account
+5. Administrator should be able to search patient records
+6. The system must prevent multiple sign in with the same login credentials
 
 ## Question 2 
 
