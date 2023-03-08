@@ -29,7 +29,7 @@ Write an API service for Medical Laboratory Inventory Management System called M
 Given an array of integers, find the two elements that sum up to a given target. 
 For example, given the array [2, 7, 11, 10, 3, 15, 44] and the target 14, the function should return [11, 3].
 
-### Exercise 3: 
+#### Exercise 2: 
 Given a string, find the first non-repeating character in it and return its index. If it doesn't exist, return -1. For example, given the string "sseemless", the function should return 4 because the first non-repeating character is 'm'.
 
 #### Notes
