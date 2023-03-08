@@ -19,7 +19,6 @@ Write an API service for Medical Laboratory Inventory Management System called M
 6. Administrator should be able to search patient records
 7. The system must prevent multiple sign in with the same login credentials
 
-
 ## Question 2 
 
 ### Data structures
