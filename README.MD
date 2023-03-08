@@ -20,9 +20,11 @@ Write an API service for Medical Laboratory Inventory Management System called M
 7. The system must ensure the same login credentials can not be used twice
 
 
-## Question 2
+## Question 2 
 
-### Exercise 1: Data structures
+Data structures
+
+### Exercise 1:
 
 Given an array of integers, find the two elements that sum up to a given target. 
 For example, given the array [2, 7, 11, 10, 3, 15, 44] and the target 14, the function should return [11, 3].
